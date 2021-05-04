@@ -2,7 +2,7 @@
 
 Quazzu a cloud hosting service website built with HTML5/CSS3 and Materialize CSS.
 
-<img src='./img/primage1.JPG' alt='Tribute Page Project' width='800px'/>
+<img src='./img/primage1.JPG' alt='' width='800px'/>
 
 # Useful Resources
 
